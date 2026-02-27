@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/200x200.png?text=LoomEngine+Logo" alt="LoomEngine Logo" width="150" height="150" />
+  <img src="./logo.png" alt="LoomEngine Logo" width="150" height="150" />
 </p>
 
 <h1 align="center">LoomEngine 🚀</h1>
