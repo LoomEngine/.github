@@ -2,8 +2,6 @@
   <img src="./logo.png" alt="LoomEngine Logo" width="450" height="350" />
 </p>
 
-<h1 align="center">LoomEngine 🚀</h1>
-
 <p align="center">
   <strong>Weaving Legacy Stability and Future Performance. Seamlessly.</strong><br>
   下一代多端动态化原生容器。Android/iOS 守旧求稳，HarmonyOS 激进求快。
